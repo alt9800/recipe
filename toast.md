@@ -6,6 +6,8 @@
 ## 詳細
 福岡市赤煉瓦文化館に入っていた HandAnythingさんのトーストのレシピを思い出してメモしておく。
 
+![トースト](https://github.com/alt9800/recipe/blob/main/IMG_3912.JPG)
+
 ## 材料
 - パン (1/2枚)
 - 玉ねぎ (手掴みの半分くらい)
